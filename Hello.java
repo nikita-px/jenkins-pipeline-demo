@@ -1,4 +1,4 @@
-//this is the hello java 
+//this is the hello java pro
 public class Hello {
     public static void main(String[] args) {
         System.out.println("Hello from GitHub");
